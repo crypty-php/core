@@ -2,7 +2,7 @@
 
 CryptyPHP is a modern Symfony bundle that helps developer setting up encryption on targeted database columns, with flexible configuration and full customization.
 
-![Symfony 7.0](https://img.shields.io/badge/Symfony-7.0-blue?logo=symfony&link=https%3A%2F%2Fsymfony.com%2Fdoc%2F7.0%2Findex.html) ![PHP 8.2](https://img.shields.io/badge/PHP-8.2-blue?logo=php&link=https%3A%2F%2Fwww.php.net%2Fdocs.php)
+![Symfony >= 7.0](https://img.shields.io/badge/Symfony-7.0-blue?logo=symfony&link=https%3A%2F%2Fsymfony.com%2Fdoc%2F7.0%2Findex.html) ![Symfony >= 8.0](https://img.shields.io/badge/Symfony-8.0-blue?logo=symfony&link=https%3A%2F%2Fsymfony.com%2Fdoc%2F8.0%2Findex.html) ![PHP 8.2](https://img.shields.io/badge/PHP-8.2-blue?logo=php&link=https%3A%2F%2Fwww.php.net%2Fdocs.php)
 
 ## 🚀 Installation
 
