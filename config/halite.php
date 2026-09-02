@@ -12,6 +12,7 @@ return static function (ContainerConfigurator $container): void {
         ->args([
             '$storageDirectory' => param('crypty.defaults.storage_directory'),
         ])
+        ->public()
     ;
 
     $container->services()->set(HaliteEncryptor::class)
@@ -19,5 +20,6 @@ return static function (ContainerConfigurator $container): void {
         ->args([
             '$keyProvider' => new Reference(HaliteKeyProvider::class),
         ])
+        ->public()
     ;
 };
