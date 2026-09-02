@@ -220,7 +220,7 @@ final class ConfigurationTest extends TestCase
                 return 'test';
             }
 
-            public function decrypt(Property $property, array $config): mixed
+            public function decrypt(Property $property, array $config): string
             {
                 return 'test';
             }
